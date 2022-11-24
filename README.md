@@ -22,9 +22,8 @@ The TPO dataset contains 4884 groups CdZnTe crystal images, which includes 3990/
 # Examples
 
 <p align="center">
-<a href="https://app.wandb.ai/xintao/basicsr" target="_blank">
    <img src="./Assets/Examples.png" height="280">
-</a></p>
+</p>
 
 # Copyright
 
